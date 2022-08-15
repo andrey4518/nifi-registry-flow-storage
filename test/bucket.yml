@@ -1,0 +1,6 @@
+flows:
+  a2c3fa17-9571-4163-808f-4960a5368c0f: {ver: 1, file: process_object_creation_events.snapshot,
+    comments: '', author: anonymous, created: 1660598454735, flowName: process_object_creation_events,
+    flowDesc: ''}
+layoutVer: 1
+bucketId: 1e26c2bf-d436-4092-86f7-950e55869e10
